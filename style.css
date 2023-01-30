@@ -3,3 +3,8 @@ h1{
     background-color: brown;
     color: aqua;
 }
+h3{
+    text-align: right;
+    background-color: aqua;
+    color: brown;
+}
